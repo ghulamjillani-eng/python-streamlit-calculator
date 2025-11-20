@@ -1,4 +1,4 @@
-%%writefile app.py
+
 import os
 import math
 from groq import Groq
